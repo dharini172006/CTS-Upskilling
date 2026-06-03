@@ -5,8 +5,8 @@ public class HashMapDemo {
 
         HashMap<Integer, String> map = new HashMap<>();
 
-        map.put(1, "Arun");
-        map.put(2, "Priya");
+        map.put(1, "Dharini");
+        map.put(2, "Dhanshikaa");
 
         System.out.println(map.get(1));
     }
